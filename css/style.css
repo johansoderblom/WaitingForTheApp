@@ -1,10 +1,14 @@
 body {
+	background-image: url("./../images/loading_100.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 	background-color: #000000;
 }
 p,a {
-	color:#ffffff;
-	font-size:17px;
-    font-family: "Lucida", Helvetica, sans-serif;
+	color:#ccc;
+	font-size:15px;
+    font-family: 'Michroma', sans-serif;
 	padding: 5px;
 }
 .center{
